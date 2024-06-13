@@ -3,6 +3,8 @@
 - Comparative p-values of features (viz): https://public.tableau.com/app/profile/shithi.maitra/viz/AirbnbRankings-Sheba/Dashboard2
 - Also, a Coursera excercise on ranking of hospitals (inspiration of the work)
 
+<strong>Note:</strong> The work is partially given, due to Sheba Platform Ltd's data governance policy.
+
 ### Exploration of Listings
 <p align="center">
   <img width="410" alt="fl1" src="https://github.com/shithi30/Preprocess_Listings_for_Rank_Analytics/assets/43873081/e1cfbec1-1503-4876-8849-dd0b030ae3af">
@@ -24,4 +26,3 @@
   <br>
   <img width="310" alt="fl1" src="https://github.com/shithi30/Preprocess_Listings_for_Rank_Analytics/assets/43873081/f32c999e-23fb-4051-b3e0-10baecf66046">
 </p>
-
