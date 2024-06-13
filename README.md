@@ -1,5 +1,6 @@
 ### Find:
 - Published reasearch (23rd IEEE ICCIT): https://ieeexplore.ieee.org/document/9392714
+- Comparative p-values of features (viz): https://public.tableau.com/app/profile/shithi.maitra/viz/AirbnbRankings-Sheba/Dashboard2
 - Also, a Coursera excercise on ranking of hospitals (inspiration of the work)
 
 ### Exploration of Listings
