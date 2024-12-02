@@ -4,7 +4,7 @@ In this repository, you'll find:
 - Comparative *p*-values of features (viz), [here](https://public.tableau.com/app/profile/shithi.maitra/viz/AirbnbRankings-Sheba/Dashboard2).
 - Also, a Coursera excercise on ranking of hospitals (inspiration of the work).
 
-**Tech Stack:** `R` for exploratory analysis, t/ANOVA/Chi-squared tests, `Tableau` for visualization
+**Tech Stack:** `R` for exploratory analysis, *t/ANOVA/Chi*-squared tests, `Tableau` for visualization
 
 <strong>Note:</strong> *Work partially given, due to Sheba Platform Ltd's data governance policy.*
 
