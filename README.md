@@ -1,8 +1,8 @@
 In this repository, you'll find:
-- Works related to feature-engineering for predicting Airbnb's customer ratings ~ Sheba's interview excercise
+- Works related to feature-engineering for predicting Airbnb's customer ratings. ~ Sheba's interview excercise
 - Published reasearch (23rd IEEE ICCIT), [here](https://ieeexplore.ieee.org/document/9392714).
 - Comparative *p*-values of features (viz), [here](https://public.tableau.com/app/profile/shithi.maitra/viz/AirbnbRankings-Sheba/Dashboard2).
-- Also, a Coursera excercise on ranking of hospitals (inspiration of the work)
+- Also, a Coursera excercise on ranking of hospitals (inspiration of the work).
 
 **Tech Stack:** `R` for exploratory analysis, t/ANOVA/Chi-squared tests, `Tableau` for visualization
 
